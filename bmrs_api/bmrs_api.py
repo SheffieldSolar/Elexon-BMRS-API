@@ -24,7 +24,6 @@ import time as TIME
 import pytz
 import pandas as pd
 
-from dbconnector import DBConnector
 from sp2ts import sp2dt
 
 SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
