@@ -1,0 +1,3 @@
+requests
+pandas
+git+git://github.com/SheffieldSolar/sp2ts.git
