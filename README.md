@@ -110,3 +110,5 @@ No license is defined yet - use at your own risk.
 * Add unit tests
 * Add GH Actions for automatic testing etc
 * Add support for downloading "Legacy BMRS Data"
+* Read API key from env var
+* Add type hints to public methods
